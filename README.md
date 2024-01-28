@@ -2,6 +2,8 @@
 
 - Icons
   - [Feather](https://feathericons.com/)
+  - [Material Icons](https://mui.com/material-ui/material-icons/)
+  - [Unicons](https://github.com/Iconscout/unicons)
 - Styling
   - CSS
     - [Simplebar plugin](https://www.npmjs.com/package/simplebar) for feed scrolling.
